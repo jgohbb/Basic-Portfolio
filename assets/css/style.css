@@ -11,7 +11,7 @@ body {
 header {
     background: #ffffff;
     text-align: center;
-    height: 60px;
+
 }
 
 /* clearfix to sort out the nav bar getting mess up*/
@@ -24,7 +24,6 @@ header::after {
 .navbar { 
     width: 80%;
     margin: 0 auto;
-
 }
 
 .brand {
@@ -35,14 +34,13 @@ header::after {
     font-size: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     float: left;
-    margin-left: 30px;
+
 }
 
 
 .links {
     float: right;
     background: #ffffff;
-    margin-right: 30px;
     padding: 0;
     list-style: none;
 }
@@ -116,9 +114,8 @@ h2 {
 }
 
 p {
-    line-height: 20px;
     padding-top: 5px;
-   margin-top: 5px;
+    margin-top: 5px;
 }
 
 footer {
