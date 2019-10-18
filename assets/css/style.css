@@ -142,7 +142,7 @@ footer {
 
 }/* Below CSS for CONTACT html*/
 
-.container-form {
+ .contact-main {
     clear: both;
     overflow: auto;
     margin: 0 auto;
@@ -155,9 +155,13 @@ footer {
     padding: 20px;
 }
 
+.container-form {
+    width: 900px;
+    margin: 10px;
+}
+
 .contact-title {
     width: 900px;
-    margin:10px;
     color: #4aaaa5;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
@@ -165,34 +169,32 @@ footer {
     padding-bottom: 10px;
 }
 
-.contact-form {
-    width: 900px;
-    margin: 0 auto;
-    clear: both;
-}
 
 #label-name {
-    padding: 20px 0 10px 0;
-
+    padding: 30px 0 10px 0;
+    margin-top: 30px;
 }
 
 
 #name {
     width: 900px;
-    margin: 5px 0 10px 0;
+    margin: 5px 0 13px 0;
     border-color: rgb(211, 214, 213);
     border-width: thin;
+    padding: 5px 0 5px 0;
 }
 
 #email {
     width: 900px;
-    margin: 5px 0 10px 0;
-    border-color: rgb(211, 214, 213);
+    margin: 5px 0 13px 0;
+    border-color:rgb(211, 214, 213);
+    padding: 5px 0 5px 0;
+    border-width: thin;
 }
 
 #textarea {
     width: 900px;
-    margin: 5px 0 10px 0;
+    margin: 5px 0 13px 0;
     border-color: rgb(211, 214, 213);
 }
 
@@ -201,5 +203,6 @@ footer {
     color: #ffffff;
     padding: 8px 20px 8px 20px;
 }
+/* Below CSS codes for Portfolio */
 
-#label-email #label-message
+
