@@ -11,6 +11,7 @@ body {
 header {
     background: #ffffff;
     text-align: center;
+    height: 60px;
 }
 
 /* clearfix to sort out the nav bar getting mess up*/
