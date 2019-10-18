@@ -11,7 +11,7 @@ body {
 header {
     background: #ffffff;
     text-align: center;
-    height: 40px;
+    clear: both;
 
 }
 
@@ -23,7 +23,7 @@ header::after {
 }
 
 .navbar { 
-    width: 75%;
+    width: 77%;
     margin: 0 auto;
 }
 
