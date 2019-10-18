@@ -6,7 +6,6 @@ body {
     background:rgb(211, 214, 213);
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
-    opacity: 1;
     margin: 0;
     padding: 0;
 }
@@ -37,6 +36,7 @@ header::after {
     font-size: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     float: left;
+    border-left: 10px;
 
 }
 
@@ -121,6 +121,11 @@ p {
     margin-top: 5px;
 }
 
+hr {
+    color: rgb(211, 214, 213);
+    width:900px;
+}
+
 footer {
     clear: both;
     overflow: 0 auto;
@@ -137,5 +142,64 @@ footer {
 
 }/* Below CSS for CONTACT html*/
 
+.container-form {
+    clear: both;
+    overflow: auto;
+    margin: 0 auto;
+    background:#ffffff;
+    color: #777777;
+    width: 960px;
+    height: fit-content;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.contact-title {
+    width: 900px;
+    margin:10px;
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+.contact-form {
+    width: 900px;
+    margin: 0 auto;
+    clear: both;
+}
+
+#label-name {
+    padding: 20px 0 10px 0;
+
+}
 
 
+#name {
+    width: 900px;
+    margin: 5px 0 10px 0;
+    border-color: rgb(211, 214, 213);
+    border-width: thin;
+}
+
+#email {
+    width: 900px;
+    margin: 5px 0 10px 0;
+    border-color: rgb(211, 214, 213);
+}
+
+#textarea {
+    width: 900px;
+    margin: 5px 0 10px 0;
+    border-color: rgb(211, 214, 213);
+}
+
+#sub {
+    background: #4aaaa5;
+    color: #ffffff;
+    padding: 8px 20px 8px 20px;
+}
+
+#label-email #label-message
