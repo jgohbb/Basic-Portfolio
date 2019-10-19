@@ -206,3 +206,24 @@ footer {
 
 
 /* Below CSS codes for Portfolio */
+
+
+.container-portfolio {
+    clear: both;
+    overflow: auto;
+    margin: 0 auto;
+    background:#ffffff;
+    color: #777777;
+    width: 960px;
+    height: fit-content;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+h4 {
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
