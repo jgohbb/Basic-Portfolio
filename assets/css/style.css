@@ -229,60 +229,85 @@ h4 {
     margin: 10px;
 }
 
-.row {
-    clear: both;
-    overflow: auto;
-    width: 900px;
-    margin:0 auto;
+.box-set {
+    width: 100%;
+    margin: 10px;
+    position: relative;
 }
 
-.row1 {
+.box {
+    position: relative;
+}
+
+.box-1 {
+    top: 30px;
 
 }
 
-#pic1 {
-    margin: 20px 0 0 0;
-    height: 140px;
-
-}
-
-.pic1comment {
-    width: 200px;
-    margin: -15px 0 0 0;
-}
-
-h5 {
-    text-align: center;
-    background:#4aaaa5;
+.box-2 {
+    top: -10px;
+    background: #4aaaa5;
     color: #ffffff;
-    padding: 10px 0 10px 0;
-    margin: -10px 0 0 0;
-    position: relative;
- 
-}
-
-#pic2 {
-    margin: -250px 0 44px 250px;
-}
-
-h6 {
-    text-align: center;
-    background:#4aaaa5;
-    color: #ffffff;
-    padding: 10px 0 10px 0;
+    padding: 10px;
     width: 200px;
-    margin: -50px 0 400px 250px;
-    position: relative;
+    text-align: center;
 }
 
-.row2 {
-    width: 900px;
-    position: relative;
-
+.box-3 {
+    top: -142px;
+    left: 250px;
+    height: 100px;
+    padding: 0 0 0 0;
 }
 
-#pic3 {
-    margin: 0 0 0 0;
-    height: 140px;
-    float: left;
+.box-4 {
+    top:-150px;
+    right: -250px;
+    background: #4aaaa5;
+    color: #ffffff;
+    padding: 10px;
+    width: 200px;
+    text-align: center;
 }
+
+.box-5 {
+    top: -110px;
+}
+
+.box-6 {
+    top: -140px;
+    left: -380px;
+    margin: 0;
+    text-align: center;
+    color: #4aaaa5;
+    font-weight: 800;
+}
+
+.box-7 {
+    top: -265px;
+    left: 250px;;
+}
+
+.box-8 {
+    top:-312px;
+    right: -250px;
+    background: #4aaaa5;
+    color: #ffffff;
+    padding: 10px;
+    width: 200px;
+    text-align: center;
+}
+
+.box-9 {
+    top: -270px;
+}
+
+.box-10 {
+    top:-317px;
+    background: #4aaaa5;
+    color: #ffffff;
+    padding: 10px;
+    width: 200px;
+    text-align: center;
+}
+
