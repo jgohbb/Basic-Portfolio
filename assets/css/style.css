@@ -240,7 +240,7 @@ h4 {
 }
 
 .box-1 {
-    top: 30px;
+    top: 40px;
 
 }
 
@@ -271,12 +271,12 @@ h4 {
 }
 
 .box-5 {
-    top: -110px;
+    top: -100px;
 }
 
 .box-6 {
-    top: -140px;
-    left: -380px;
+    top: -132px;
+    left: -360px;
     margin: 0;
     text-align: center;
     color: #4aaaa5;
@@ -284,12 +284,12 @@ h4 {
 }
 
 .box-7 {
-    top: -265px;
+    top: -257px;
     left: 250px;;
 }
 
 .box-8 {
-    top:-312px;
+    top:-308px;
     right: -250px;
     background: #4aaaa5;
     color: #ffffff;
@@ -299,11 +299,11 @@ h4 {
 }
 
 .box-9 {
-    top: -270px;
+    top: -260px;
 }
 
 .box-10 {
-    top:-317px;
+    top:-300px;
     background: #4aaaa5;
     color: #ffffff;
     padding: 10px;
