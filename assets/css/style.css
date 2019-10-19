@@ -256,12 +256,12 @@ h4 {
 .box-3 {
     top: -142px;
     left: 250px;
-    height: 100px;
+    height: 109px;
     padding: 0 0 0 0;
 }
 
 .box-4 {
-    top:-150px;
+    top:-155px;
     right: -250px;
     background: #4aaaa5;
     color: #ffffff;
@@ -271,25 +271,27 @@ h4 {
 }
 
 .box-5 {
-    top: -100px;
+    top: -90px;
 }
 
 .box-6 {
-    top: -132px;
-    left: -360px;
+    top: -138px;
+    left: 0px;
     margin: 0;
     text-align: center;
-    color: #4aaaa5;
-    font-weight: 800;
+    color: #ffffff;
+    background: #4aaaa5;
+    padding: 10px;
+    width: 200px;
 }
 
 .box-7 {
-    top: -257px;
+    bottom: 270px;
     left: 250px;;
 }
 
 .box-8 {
-    top:-308px;
+    top:-320px;
     right: -250px;
     background: #4aaaa5;
     color: #ffffff;
@@ -303,7 +305,7 @@ h4 {
 }
 
 .box-10 {
-    top:-300px;
+    top:-310px;
     background: #4aaaa5;
     color: #ffffff;
     padding: 10px;
