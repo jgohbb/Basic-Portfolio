@@ -31,13 +31,13 @@ header::after {
 .brand {
     background: #4aaaa5;
     color: #ffffff;
-    padding: 20px;  
+    padding: 20px 26px 20px 26px;  
     text-align: center;
     font-size: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     float: left;
     border-left: 10px;
-
+    font-weight: 550;
 }
 
 
