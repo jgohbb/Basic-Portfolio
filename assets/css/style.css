@@ -218,9 +218,9 @@ footer {
     color: #777777;
     width: 960px;
     height: fit-content;
-    margin-top: 20px;
+    margin-top:0;
     margin-bottom: 20px;
-    padding: 20px;
+    padding: 0 20px 20px 0;
 }
 h4 {
     color: #4aaaa5;
@@ -315,3 +315,8 @@ h4 {
     text-align: center;
 }
 
+#hr2 {
+    color: rgb(211, 214, 213);
+    width:900px;
+    margin-left: 9px;
+}
