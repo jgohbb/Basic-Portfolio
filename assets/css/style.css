@@ -71,11 +71,9 @@ a::before {
     display: block;
     height: 5px;
     background: rgb(78, 76, 76);
-
     position: absolute;
     top: 0;
     width: 0%;
-
     transition: all ease-in-out 250ms;
 }
 
@@ -99,7 +97,6 @@ main {
 .container {
     width: 900px;
     margin: 10px;
-    
 }
 
 h2 {
@@ -211,17 +208,10 @@ footer {
 
 
 .container-portfolio {
-    clear: both;
-    overflow: auto;
-    margin: 0 auto;
-    background:#ffffff;
-    color: #777777;
-    width: 960px;
-    height: fit-content;
-    margin-top:0;
-    margin-bottom: 20px;
-    padding: 0 20px 20px 0;
+    width: 900px;
+    margin: 10px;
 }
+
 h4 {
     color: #4aaaa5;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -243,7 +233,6 @@ h4 {
 
 .box-1 {
     top: 40px;
-
 }
 
 .box-2 {
