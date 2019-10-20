@@ -117,8 +117,10 @@ h2 {
 }
 
 p {
-    padding-top: 5px;
-    margin-top: 5px;
+    padding-top: 8px;
+    margin-top: 8px;
+    line-height: 25px;
+    
 }
 
 hr {
